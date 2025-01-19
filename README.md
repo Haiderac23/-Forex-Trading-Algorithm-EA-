@@ -9,3 +9,4 @@ EA moves x amount of pips in a certain direction, then executes a position in th
 With a Stop Loss of X amount of pips and a TP with X amount the EA is able to create a solid R:R ratio to capilaize on trades and therefore grow any trading account in a steady rate.
 
 Backtesting data over 6 months (Jan-May;2022)
+https://user-images.githubusercontent.com/75466919/174233289-da0c8481-2601-4518-a0ea-942deef05f46.PNG![image](https://github.com/user-attachments/assets/ba951d9f-b703-43c8-b73a-14906f7ec0df)
